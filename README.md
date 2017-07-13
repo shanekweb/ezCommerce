@@ -19,3 +19,19 @@ rake db:create
 rake/rails db:migrate
 rails g scaffold Blog title body:text
 rails db:migrate
+git rm . -r --cached
+test that secrets aren't showing up on git status
+
+# h1
+## h2
+
+> this is a blockquote
+
+- bullet
+- points
+
+```
+  code block
+  def
+  end
+```
