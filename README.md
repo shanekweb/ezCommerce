@@ -56,6 +56,7 @@ Skill.create!(title: "CSS3", percent: 80)
 Skill.all
 In pages controller for home action, add blog and skills all records,
 then in home view add skills inspect with headings. Call blog and skills inside pages controller
+
 > to merge branches there are 2 ways
 
 Best & quickest way if working on own
